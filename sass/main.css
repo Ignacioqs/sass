@@ -1,8 +1,8 @@
 @charset "UTF-8";
 :root {
-  --color-primary: #eb2f64;
-  --color-primary-light: #ff3366;
-  --color-primary-dark: #ba265d;
+  --color-primary: #14d09b;
+  --color-primary-light: #19e0a3;
+  --color-primary-dark: #13b784;
   --color-grey-light-1: #faf9f9;
   --color-grey-light-2: #f4f2f2;
   --color-grey-light-3: #f0eeee;
@@ -37,7 +37,7 @@ html {
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   line-height: 1.6;
   background-image: linear-gradient(to right bottom, var(--color-primary-light), var(--color-primary-dark));
